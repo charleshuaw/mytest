@@ -11,6 +11,7 @@ public class TestController {
         int s = 0; //step 1
         int s2 = 2;//step 2
         int s3 = 3;//step 3
+        int s4 = 4;//step 3
         System.out.println("666...");
         return "haha...";
     }
