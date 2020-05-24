@@ -8,7 +8,8 @@ public class TestController {
 
     @GetMapping("/test")
     public String test(){
-        int s = 0;
+        int s = 0; //step 1
+        int s2 =2;//step 2
         System.out.println("666...");
         return "haha...";
     }
